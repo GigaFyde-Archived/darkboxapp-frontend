@@ -1,0 +1,18 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  overflow-y: hidden;
+}
+
+.notification {
+  margin-bottom: 0px !important;
+}
+
+.fa-w-16 {
+  margin-right: 8px !important;
+}
+
+.fa-w-12 {
+  margin-right: 8px !important;
+}
